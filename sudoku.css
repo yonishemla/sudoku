@@ -1,0 +1,124 @@
+.color{
+    background-color: rgb(151, 29, 29);
+}
+.color2{
+
+    background-color: black;
+}
+body{
+    background-color: gray;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px 650px; 
+}
+
+#imdiv{
+    color: white;
+    margin-left: 485px;
+    font-size: 25px;
+}
+
+
+
+#tablesu{
+    margin-left:430px;
+    margin-top: 50px;
+    font-size: 250px;
+}
+.numin{
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 5px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    color: white;
+    
+}
+
+
+
+#l1,#l3{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-left:600px;
+}
+
+#l2{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    margin-left:585px;
+}
+
+#l1:hover,#l2:hover,#l3:hover{
+    font-size: 30px;
+    color: white;
+   
+}
+
+#l1:active,#l2:active,#l3:active{
+    font-size: 25px;
+    color: rgb(170, 56, 56);
+}
+
+#low:checked+label,#medium:checked+label,#high:checked+label{
+    font-size: 25px;
+    color: black;
+}
+
+
+#startbtn,#checkbtn,#restartbtn {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    font-family : inherit;
+    margin-left:585px;
+    height: 75px;
+    width: 90px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+
+#startbtn:hover,#checkbtn:hover,#restartbtn:hover{
+    font-size: 30px;
+    color: white;
+}
+
+#startbtn:active,#checkbtn:active,#restartbtn:active{
+    font-size: 25px;
+    color: rgb(170, 56, 56);
+}
+
+#puzz{
+    width: 100px;
+    height: 100px;
+    margin-left: 420px;
+
+}
+#header{
+    height: 100px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+#headiv{
+    color: white;
+}
+
+#faildiv{
+    color: white;
+    font-size: 30px;
+    margin-left: 470px;
+}
+
+
+
+
+
